@@ -2,4 +2,4 @@
 
 based on `rustlang/rust:nightly`
 
-with musl-tools
+with `musl-tools`
